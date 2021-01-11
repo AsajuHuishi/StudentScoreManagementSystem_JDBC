@@ -1,6 +1,6 @@
 # 学生成绩管理系统
 
-本文是**[MySQL+java: 实现学生成绩管理系统（2.0版本）](https://blog.csdn.net/qq_36937684/article/details/112502793)，是基于[MySQL+java: 实现学生成绩管理系统（1.0版本）](https://blog.csdn.net/qq_36937684/article/details/108757156)进行修改优化的版本** 
+本文是 **[MySQL+java: 实现学生成绩管理系统（2.0版本）](https://blog.csdn.net/qq_36937684/article/details/112502793)，是基于[MySQL+java: 实现学生成绩管理系统（1.0版本）](https://blog.csdn.net/qq_36937684/article/details/108757156)进行修改优化的版本** 
 
 ## 任务
 1.新增学生记录<br>
