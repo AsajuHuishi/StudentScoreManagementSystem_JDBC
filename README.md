@@ -3,7 +3,13 @@
 本文是**MySQL+java: [实现学生成绩管理系统（2.0版本）](https://blog.csdn.net/qq_36937684/article/details/112502793)，是基于[MySQL+java: 实现学生成绩管理系统（1.0版本）](https://blog.csdn.net/qq_36937684/article/details/108757156)进行修改优化的版本** 
 
 ## 任务
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200923171232277.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2OTM3Njg0,size_16,color_FFFFFF,t_70#pic_center)
+1.新增学生记录
+2.修改学生记录
+3.删除学生记录
+4.按姓名或学号查询学生记录
+5.按成绩排序
+6.分班级统计
+7.退出
 
 ## 代码功能介绍
 代码     | 功能
