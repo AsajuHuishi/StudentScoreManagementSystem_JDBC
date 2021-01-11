@@ -4,6 +4,7 @@
 
 ## 任务
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200923171232277.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzM2OTM3Njg0,size_16,color_FFFFFF,t_70#pic_center)
+
 ## 代码功能介绍
 代码     | 功能
 -------- | -----
@@ -17,7 +18,7 @@ Main.java|主函数
 ## 环境
  - JDK 1.8
  - MySQL 5.5.15
- - JDBC 5.1.
+ - JDBC 5.1.49
  
 ## 使用
 使用MySQL生成表
