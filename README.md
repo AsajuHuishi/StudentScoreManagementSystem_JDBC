@@ -30,7 +30,7 @@ Main.java|主函数
 使用MySQL生成表
 包括 学号，姓名，成绩，班级四个字段。
 ```sql
-USE students;
+USE db58;
 
 DROP TABLE IF EXISTS stu_score;
 CREATE TABLE IF NOT EXISTS stu_score(
